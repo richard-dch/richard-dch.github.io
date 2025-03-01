@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.devcentrehouse.eu/sitemap-global.xml
