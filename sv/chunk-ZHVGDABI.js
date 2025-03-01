@@ -1,2 +1,0 @@
-import{a as o}from"./chunk-CUEOI5SB.js";import{$ as n}from"./chunk-GPUA3BWX.js";var l=(()=>{class e{openCalendlyPopup(){window.Calendly&&window.Calendly.initPopupWidget({url:o.calendly_uri})}static \u0275fac=function(t){return new(t||e)};static \u0275prov=n({token:e,factory:e.\u0275fac,providedIn:"root"})}return e})();export{l as a};
-/**i18n:2959a088a4f851c603ee32029e8942bcc70b3666ad7eada0c74607a8984ba57d*/

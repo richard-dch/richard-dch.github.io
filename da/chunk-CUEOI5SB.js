@@ -1,2 +1,0 @@
-var e={isDevMode:!1,production:!0,calendly_uri:"https://calendly.com/devcentrehouse/booking",company_video_id:"hOZumbPIs_E",clutch_uri:"https://clutch.co/profile/dev-centre-house",api:"https://api-cloud.devcentrehouse.eu",appUrl:"https://www.devcentrehouse.eu",googleAnalytics:"G-RN4Z25DHBE",googleTagManager:"GTM-MPTQMLG"};export{e as a};
-/**i18n:2959a088a4f851c603ee32029e8942bcc70b3666ad7eada0c74607a8984ba57d*/
